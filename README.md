@@ -122,7 +122,7 @@
     <td rowspan="12">산업 (지역별 이직자 수 기준)</td>
     <td rowspan="2">전산업</td>
     <td><a href="https://ycanns.github.io/KRIVET_VIZ/TRNSF_WRK_2022_COM.html"> 전산업 이직자 수(2022)</a></td>
-      <tr><td><a href="https://ycanns.github.io/KRIVET_VIZ/TRNSF_WRK_2022_COM.html"> 전산업 이직자 수(2023)</a></td></tr>
+      <tr><td><a href="https://ycanns.github.io/KRIVET_VIZ/TRNSF_WRK_2023_COM.html"> 전산업 이직자 수(2023)</a></td></tr>
     <tr>
     <td rowspan="2">광업/제조업</td>
     <td><a href="https://ycanns.github.io/KRIVET_VIZ/TRNSF_WRK_2022_MNF.html"> 광업/제조업 이직자 수(2022)</a></td>
